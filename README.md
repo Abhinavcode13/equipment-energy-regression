@@ -1,3 +1,6 @@
+> ### Energy consumption vs outdoor_temp vs outdoor_humidity vs outdoor_windspeed
+![overall_energy_consumption](https://github.com/Abhinavcode13/equipment-energy-regression/blob/main/data/overall_energy_consumption.png)
+
 ### Implemented in the Notebook
 
 - **Data Exploration**:
