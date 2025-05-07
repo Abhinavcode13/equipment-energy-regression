@@ -49,3 +49,5 @@
    ```bash
    jupyter notebook energy_efficiency_analysis.ipynb
    ```
+
+For more insights, refer to the [QA.md](https://github.com/Abhinavcode13/equipment-energy-regression/blob/main/QA.md) file.
